@@ -15,3 +15,12 @@ look_energy cost (the energy it costs for a critter look if other critters are i
 
 
 In this project, a world of critters are created. There are different critters that can be created by the user.Each critter has different characteristics. For example, they can walk or run in random directions and when we click step the critters move. Each critter has a default energy and walking and running energy costs depend on the paramaters. After a step, if a critter lands on the position of another critter they both perform their fight functions. In their fight functions, the critter can attempt to walk or run away but if it is out of energy will die. If they both choose to fight, one randomly survives and gets half the losers energy. The loser is removed from the critter world. The user can also choose to see the statics of a critter and if they user clicks animation, it will show a step by step animation of the critters in the world.  
+
+
+Project start:
+
+<img width="1278" alt="project start" src="https://user-images.githubusercontent.com/19617642/35415155-35475e68-01ea-11e8-8f63-c45d334e7c84.png">
+
+Adding a critter with stats:
+
+<img width="1279" alt="adding a critter with stats" src="https://user-images.githubusercontent.com/19617642/35415180-43da873e-01ea-11e8-9bee-68746acefd9b.png">
